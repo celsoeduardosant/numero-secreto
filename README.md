@@ -1,1 +1,1 @@
-<H1>Projeto do curso "Número Secreto" da plataforma Alura</H1>
+<H3>Projeto do curso "Número Secreto" da plataforma Alura</H3>
